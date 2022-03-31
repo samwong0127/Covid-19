@@ -1,4 +1,4 @@
-# Covid-19
+# COVID-19 tracking app server
 
 The server is written by PHP and communicates with the relational database by SQL.
 
