@@ -9,3 +9,7 @@ The basic functions are
 2. Updating & Uploading
 3. Retrieving Covid-19 data from data.gov.hk
 4. Comparison the locations of the user and confirmed cases.
+
+Update suggestions
+1. Salt-hashed password storage in database
+2. Faster comparsion by matching location ID/district
